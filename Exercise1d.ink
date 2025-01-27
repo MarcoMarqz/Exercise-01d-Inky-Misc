@@ -61,6 +61,8 @@ Stamina bar -1 {stamina_bar()}
 You begin a hike through a nearby trail. The fresh air is great and gives you a sense of calmness.
 
 {stamina_bar()}  
+{advance_time()}
+
 
 After the hike, you feel accomplished.
 
@@ -76,7 +78,7 @@ After the hike, you feel accomplished.
     
 == resting ==
 You take quick nap for some rest.
-
+{advance_time()}
 You recovered your stamina!
 
 {& --You are dreaming about cows-| -You are dreaming about flying high above the ground--| --You are dreaming about swimming in deep water-- | --You are dreaming about exploring a cave--}
