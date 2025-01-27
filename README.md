@@ -1,5 +1,6 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Marco Marquez
 
 # Your Github username
+# MarcoMarqz
